@@ -130,3 +130,29 @@ body {
 .intensive .item {
     width: 342px;
 }
+
+.about {
+    padding: 108px 0 74px;
+    background: url('../img/woman_bg.png') no-repeat left bottom;
+}
+
+.about_content {
+    padding-left: 380px;
+}
+
+.about_content h2 {
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #299CBD;
+    margin-bottom: 25px;
+}
+
+.about_content p {
+    margin-bottom: 20px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+}
